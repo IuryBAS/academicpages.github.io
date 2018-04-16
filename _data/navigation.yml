@@ -13,10 +13,10 @@ main:
  #   url: /portfolio/
         
   - title: "Blog"
-    url: /year-archive/
+    url: https://giantbit.wordpress.com
     
   - title: "CV"
-    url: https://giantbit.wordpress.com
+    url: /cv/
     
  # - title: "Guide"
  #   url: /markdown/
