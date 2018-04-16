@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Human-House Interaction Model Based on Artificial Intelligence for Residential Functions"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2017-hci-HCasa
+excerpt: 'Abstract The scenarios as smart homes and its devices requires novel ways to perform  interactive actions. In this work we explore and develop a model to interact, in a natural,  easy learning and intuitive manner, with a smart home, without use special sensors or  another controllers, based on interpretation of complex context images captured with a trivial  camera. We use artificial intelligence and computer vision techniques to recognize action  icons in a uncontrolled environment and identify user interact actions gestures. Our model  connects with well know computational platforms, which communicate with devices and  another residential functions. Preliminary tests demonstrated that our model fits well for the  objectives, working in different conditions of light, distance and ambiances.'
+date: 2017-07-09
+venue: 'International Conference on Human-Computer Interaction'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-58753-0_51'
+citation: 'Santos B.F.L., de Andrade Santos I.B., Guimarães M.J.M., Benicasa A.X. (2017) Human-House Interaction Model Based on Artificial Intelligence for Residential Functions. In: Stephanidis C. (eds) HCI International 2017 – Posters' Extended Abstracts. HCI 2017. Communications in Computer and Information Science, vol 714. Springer, Cham'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Abstract The scenarios as smart homes and its devices requires novel ways to perform  interactive actions. In this work we explore and develop a model to interact, in a natural,  easy learning and intuitive manner, with a smart home, without use special sensors or  another controllers, based on interpretation of complex context images captured with a trivial  camera. We use artificial intelligence and computer vision techniques to recognize action  icons in a uncontrolled environment and identify user interact actions gestures. Our model  connects with well know computational platforms, which communicate with devices and  another residential functions. Preliminary tests demonstrated that our model fits well for the  objectives, working in different conditions of light, distance and ambiances.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-319-58753-0_51)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Santos B.F.L., de Andrade Santos I.B., Guimarães M.J.M., Benicasa A.X. (2017) Human-House Interaction Model Based on Artificial Intelligence for Residential Functions. In: Stephanidis C. (eds) HCI International 2017 – Posters' Extended Abstracts. HCI 2017. Communications in Computer and Information Science, vol 714. Springer, Cham
