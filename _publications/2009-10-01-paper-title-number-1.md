@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Dynamic Natural Interaction with Projected Images"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2016-eniac-interaction
+excerpt: 'In the last years computers have been turned in common day-by-day devices. Trying to facilitate and approximate the interaction between man and the machine, new forms to interact has been researched and developed, as the use of gestures. This work has as objective the development of a alternative model to real sensors, taking advantage of techniques for scenes interpretation and computational vision, through capture of images, pre-processing, visual attention, segmentation and classification. The model was tested in several environments and, according to the accuracy values obtained from a confusion matrix, has been possible conclude for its applicability and efficiency.'
+date: 2016-10-08
+venue: 'XIII Encontro Nacional de Inteligˆencia Artificial e Computacional'
+paperurl: 'http://www.lbd.dcc.ufmg.br/colecoes/eniac/2016/062.pdf'
+citation: 'I. B. A. Santos, B. F. L. Santos, L. A. Fonseca Sobrinho, Alcides Xavier Benicasa (2016). &quot;Dynamic Natural Interaction with Projected Images.&quot; <i>XIII Encontro Nacional de Inteligˆencia Artificial e Computacional</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In the last years computers have been turned in common day-by-day devices. Trying to facilitate and approximate the interaction between man and the machine, new forms to interact has been researched and developed, as the use of gestures. This work has as objective the development of a alternative model to real sensors, taking advantage of techniques for scenes interpretation and computational vision, through capture of images, pre-processing, visual attention, segmentation and classification. The model was tested in several environments and, according to the accuracy values obtained from a confusion matrix, has been possible conclude for its applicability and efficiency.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://www.lbd.dcc.ufmg.br/colecoes/eniac/2016/062.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: I. B. A. Santos, B. F. L. Santos, L. A. Fonseca Sobrinho, Alcides Xavier Benicasa (2016). "Dynamic Natural Interaction with Projected Images" <i>XIII Encontro Nacional de Inteligˆencia Artificial e Computacional</i>. 1(1).
