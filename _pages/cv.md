@@ -40,7 +40,7 @@ Research Projects
 
 Skills
 ======
-* Object Oriented Programing
+* Object-Oriented Programming
 * Artificial Intelligence 
   * Neural Networks
   * Reinforce Learning
