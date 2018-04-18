@@ -16,9 +16,11 @@ A more complete CV can be found [here](http://lattes.cnpq.br/3123340179992272).
 Education
 ======
 * B.S. Information Systems, Federal University of Sergipe (UFS), 2018
-<!--* M.S. in Jekyll, Github University, 2014
+
+<!-- * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 -->
+
 Work experience
 ======
 * 2017 - Actual: Systems Analyst
