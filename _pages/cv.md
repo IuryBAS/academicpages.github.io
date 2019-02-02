@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Interests in the field of Artificial Intelligence, deep learning, machine learning, computer vision, assistive technologies and artificial intelligence applications with social impact.
+Interests in the field of Artificial Intelligence, deep learning, machine learning, reinforcement learning, computer vision, assistive technologies and artificial intelligence applications with social impact.
 
 A more complete CV can be found [here](http://lattes.cnpq.br/3123340179992272).
 
 Education
 ======
+* Mastering in Computer Science and Computational Math, University of São Paulo (USP) (Actual)
 * B.S. Information Systems, Federal University of Sergipe (UFS), 2018
 
 <!-- * M.S. in Jekyll, Github University, 2014
@@ -40,11 +41,12 @@ Research Projects
 
 Skills
 ======
-* Object-Oriented Programming
+
 * Artificial Intelligence 
   * Neural Networks
   * Reinforce Learning
   * Computer Vision
+* Object-Oriented Programming
 
 <!-- * Skill 3 -->
 
