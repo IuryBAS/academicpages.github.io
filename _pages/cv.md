@@ -11,7 +11,7 @@ redirect_from:
 
 Interests in the field of Artificial Intelligence, deep learning, machine learning, reinforcement learning, computer vision, assistive technologies and artificial intelligence applications with social impact.
 
-A more complete CV can be found [here](http://lattes.cnpq.br/3123340179992272).
+A more complete CV can be found *[here](http://lattes.cnpq.br/3123340179992272)*.
 
 Education
 ======
