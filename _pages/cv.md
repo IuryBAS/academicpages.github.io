@@ -15,7 +15,7 @@ A more complete CV can be found *[here](http://lattes.cnpq.br/3123340179992272)*
 
 Education
 ======
-* Mastering in Computer Science and Computational Math, University of São Paulo (USP) (Actual)
+* M.S. in Computer Science and Computational Mathematics, Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo (ICMC-USP), 2020
 * B.S. Information Systems, Federal University of Sergipe (UFS), 2018
 
 <!-- * M.S. in Jekyll, Github University, 2014
